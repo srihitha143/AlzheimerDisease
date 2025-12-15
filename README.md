@@ -71,3 +71,5 @@ The model is trained on `alzheimers_disease_data.csv`, focusing on features that
   * `scaler.pkl`: The StandardScaler object for data normalization.
   * `selected_features.json`: A mapping of features used during the prediction phase.
   * `Alzheimer's Disease Classification.pptx`: Presentation detailing project goals and methodology.
+
+    project done by : Nakka Srihitha
